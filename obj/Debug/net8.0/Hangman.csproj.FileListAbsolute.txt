@@ -1,0 +1,14 @@
+/Users/rileywells/Documents/IS_413/Hangman/obj/Debug/net8.0/Hangman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rileywells/Documents/IS_413/Hangman/obj/Debug/net8.0/Hangman.AssemblyInfoInputs.cache
+/Users/rileywells/Documents/IS_413/Hangman/obj/Debug/net8.0/Hangman.AssemblyInfo.cs
+/Users/rileywells/Documents/IS_413/Hangman/obj/Debug/net8.0/Hangman.csproj.CoreCompileInputs.cache
+/Users/rileywells/Documents/IS_413/Hangman/bin/Debug/net8.0/Hangman
+/Users/rileywells/Documents/IS_413/Hangman/bin/Debug/net8.0/Hangman.deps.json
+/Users/rileywells/Documents/IS_413/Hangman/bin/Debug/net8.0/Hangman.runtimeconfig.json
+/Users/rileywells/Documents/IS_413/Hangman/bin/Debug/net8.0/Hangman.dll
+/Users/rileywells/Documents/IS_413/Hangman/bin/Debug/net8.0/Hangman.pdb
+/Users/rileywells/Documents/IS_413/Hangman/obj/Debug/net8.0/Hangman.dll
+/Users/rileywells/Documents/IS_413/Hangman/obj/Debug/net8.0/refint/Hangman.dll
+/Users/rileywells/Documents/IS_413/Hangman/obj/Debug/net8.0/Hangman.pdb
+/Users/rileywells/Documents/IS_413/Hangman/obj/Debug/net8.0/Hangman.genruntimeconfig.cache
+/Users/rileywells/Documents/IS_413/Hangman/obj/Debug/net8.0/ref/Hangman.dll
