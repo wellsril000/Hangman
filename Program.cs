@@ -76,8 +76,6 @@ do
 Console.WriteLine("Thanks for playing! Please come again.");
 Console.WriteLine("Press any key to exit...");
 
-Console.WriteLine("This is going to be a mistake");
-
 
          
 
